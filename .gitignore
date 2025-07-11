@@ -1,0 +1,12 @@
+# Ignore the database file
+/backend/vouchers.db
+
+# Ignore node_modules for frontend
+/frontend/node_modules/
+
+# Ignore build files and binaries for backend
+/backend/bin/
+.backend/*.exe
+
+# Ignore IDE/Editor folders
+.vscode/
