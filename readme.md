@@ -1,4 +1,4 @@
-# Airline Voucher Seat Assignment App - README
+# Airline Voucher Seat Assignment App
 
 ## Project Overview
 
